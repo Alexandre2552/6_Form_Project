@@ -1,3 +1,4 @@
+```markdown
 ## Descrição do Projeto
 
 Este repositório apresenta um formulário responsivo para cadastro e venda de veículos, desenvolvido por mim como parte do curso de desenvolvimento web. Meu objetivo principal com este projeto foi consolidar meus conhecimentos práticos em HTML5 e CSS3, com ênfase na criação de interfaces adaptáveis e bem estruturadas.
@@ -27,3 +28,4 @@ Durante o curso, desenvolvi as seguintes habilidades técnicas:
 ## Considerações Finais
 
 A realização deste projeto me proporcionou uma base sólida para o desenvolvimento de interfaces web profissionais, com foco em responsividade, clareza e organização do código. As habilidades que adquiri serão fundamentais para enfrentar desafios mais avançados no ecossistema de desenvolvimento web.
+```
