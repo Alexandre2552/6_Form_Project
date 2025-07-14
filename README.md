@@ -1,6 +1,6 @@
 ## Descrição do Projeto
 
-Este repositório apresenta um formulário responsivo para cadastro e venda de veículos, desenvolvido por mim como parte do curso de desenvolvimento web. Meu objetivo principal com este projeto foi consolidar meus conhecimentos práticos em HTML5 e CSS3, com ênfase na criação de interfaces adaptáveis e bem estruturadas.
+Este repositório apresenta um formulário responsivo para cadastro e venda de veículos, desenvolvido por mim como parte do curso de desenvolvimento web. O principal objetivo deste projeto foi consolidar meus conhecimentos práticos em HTML5 e CSS3, com ênfase na criação de interfaces adaptáveis e bem estruturadas.
 
 ## Habilidades Desenvolvidas
 
@@ -10,7 +10,7 @@ Durante o curso, desenvolvi as seguintes habilidades técnicas:
   Elaborei formulários completos, utilizei diferentes tipos de campos e apliquei validações nativas.
 
 - **Estilização com CSS3:**  
-  Desenvolvi layouts modernos, trabalhei com paletas de cores, escolhi tipografias apropriadas e personalizei elementos de formulário.
+  Desenvolvi layouts modernos, apliquei paletas de cores, selecionei tipografias apropriadas e personalizei elementos de formulário.
 
 - **Design Responsivo:**  
   Implementei media queries para garantir a adaptação do layout a diversos dispositivos e tamanhos de tela, assegurando uma experiência consistente em smartphones, tablets e desktops.
